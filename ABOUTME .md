@@ -8,7 +8,7 @@ Meu nome é João, tenho 14 anos e sou apaixonado por tecnologia, jogos e progra
 - 🌐 Explorando o mundo da programação
 
 ## Linguagens de Programação:
-- https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg: Básico
+- Python: Básico
 - Lua: Iniciante
 
 --------
