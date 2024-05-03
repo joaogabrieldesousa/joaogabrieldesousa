@@ -8,7 +8,7 @@ Meu nome é João, tenho 14 anos e sou apaixonado por tecnologia, jogos e progra
 - 🌐 Explorando o mundo da programação
 
 ## Linguagens de Programação:
-- Python: Básico
+- https://www.python.org/: Básico
 - Lua: Iniciante
 
 --------
